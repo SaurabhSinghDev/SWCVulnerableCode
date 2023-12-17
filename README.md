@@ -29,3 +29,30 @@ Each file in this repository demonstrates a specific vulnerability:
 - `SWC-118_Insufficient_Gas_Griefing.sol`: Demonstrates SWC-118
 - `SWC-119_Shadowing_State_Variables.sol`: Demonstrates SWC-119
 - `SWC-120_Weak_Randomness.sol`: Demonstrates SWC-120
+
+## 📚 Use Cases
+
+Education 🎓: Learn about smart contract vulnerabilities for educational purposes.
+
+Security Training 🛡️: Sharpen security skills by identifying and mitigating vulnerabilities.
+
+Security Research 🔍: Analyze vulnerabilities and test security analysis tools.
+
+Tool Testing 🧰: Validate security analysis tools' effectiveness in detecting vulnerabilities.
+
+Code Reviews 👀: Practice conducting code reviews for secure smart contract development.
+
+Best Practices ✅: Gain insights into secure coding practices from vulnerable code.
+
+Experimentation ⚗️: Experiment with vulnerabilities to deepen understanding.
+
+Security Awareness 🚨: Raise awareness about blockchain security challenges.
+
+Teaching Materials 📖: Use in workshops and courses for teaching blockchain security.
+
+Red Team Exercises 🚩: Assess readiness to handle security incidents in smart contracts.
+
+Tool Benchmarking 📊: Benchmark security audit tools against known vulnerabilities.
+
+## Note: 
+Please note that the code in this repository is intended for educational and testing purposes only. Use caution and follow best practices when working with smart contracts in production environments.
